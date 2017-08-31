@@ -1,0 +1,9 @@
+D:\LABC#\test0831_clip\test0831_clip\bin\Debug\test0831_clip.exe.config
+D:\LABC#\test0831_clip\test0831_clip\bin\Debug\test0831_clip.exe
+D:\LABC#\test0831_clip\test0831_clip\bin\Debug\test0831_clip.pdb
+D:\LABC#\test0831_clip\test0831_clip\obj\Debug\test0831_clip.csprojResolveAssemblyReference.cache
+D:\LABC#\test0831_clip\test0831_clip\obj\Debug\test0831_clip.Form1.resources
+D:\LABC#\test0831_clip\test0831_clip\obj\Debug\test0831_clip.Properties.Resources.resources
+D:\LABC#\test0831_clip\test0831_clip\obj\Debug\test0831_clip.csproj.GenerateResource.Cache
+D:\LABC#\test0831_clip\test0831_clip\obj\Debug\test0831_clip.exe
+D:\LABC#\test0831_clip\test0831_clip\obj\Debug\test0831_clip.pdb
